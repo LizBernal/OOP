@@ -1,0 +1,33 @@
+body{
+        font-family: 'Arial', sans-serif;
+        font-size: 20px;
+        color: #111010;
+        line-height: 1.5;
+        margin: 0;
+        padding: 0;
+        background-attachment: fixed;
+        overflow-x: hidden;
+        text-align: justify;
+        margin: 0 auto; /* Centra el contenido horizontalmente */
+        width: 80%; /* Ajusta el ancho del contenido */
+        max-width: 2000px; /* Establece un ancho máximo para el contenido */
+        background-color:#a48ff5; 
+      
+        }
+        
+        h1 {
+            font-size: 30px;
+            color: #000000;
+            text-align: center;
+            font-family: 'Times New Roman', Times, serif;
+           }
+        
+          h2 {
+            font-size: 24px;
+            color: #3f14a3;
+          }
+        
+
+
+
+
